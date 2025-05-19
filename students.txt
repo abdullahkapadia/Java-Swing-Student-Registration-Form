@@ -1,0 +1,10 @@
+Name: abdullah
+Age: 17
+Address: mgroad
+Phone Number: 123
+
+Name: abdullah
+Age: 18
+Address: burhani society
+Phone Number: 8320021832
+
